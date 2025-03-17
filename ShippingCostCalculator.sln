@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingCostCalculator", "ShippingCostCalculator\ShippingCostCalculator.csproj", "{19AD59F7-AE8F-4128-85D1-DAB237F7D07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingCostCalculator.Data", "ShippingCostCalculator.Data\ShippingCostCalculator.Data.csproj", "{636D5AB7-034B-467D-A979-914750F46B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShippingCostCalculator.Tests", "ShippingCostCalculator.Tests\ShippingCostCalculator.Tests.csproj", "{6B453EBD-BBC1-4C2B-92A3-29BEFE5A1F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AD59F7-AE8F-4128-85D1-DAB237F7D07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AD59F7-AE8F-4128-85D1-DAB237F7D07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AD59F7-AE8F-4128-85D1-DAB237F7D07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AD59F7-AE8F-4128-85D1-DAB237F7D07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636D5AB7-034B-467D-A979-914750F46B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636D5AB7-034B-467D-A979-914750F46B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636D5AB7-034B-467D-A979-914750F46B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636D5AB7-034B-467D-A979-914750F46B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B453EBD-BBC1-4C2B-92A3-29BEFE5A1F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B453EBD-BBC1-4C2B-92A3-29BEFE5A1F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B453EBD-BBC1-4C2B-92A3-29BEFE5A1F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B453EBD-BBC1-4C2B-92A3-29BEFE5A1F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
